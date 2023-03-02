@@ -1,0 +1,19 @@
+{
+  "name": "tcoo-website",
+  "version": "1.0.0",
+  "description": "The Colors of Olleh website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppigmon/tcoo.git"
+  },
+  "author": "Philip Pigmon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppigmon/tcoo/issues"
+  },
+  "homepage": "https://github.com/ppigmon/tcoo#readme"
+}
